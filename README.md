@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👋🏽 Hey there, I'm Juan!
+# 👋🏽 I'm Juan!
 
-✨ **Full Stack Development Student** | 🎯 Columbus, OH | 💡 Building interactive, user-centered web applications
+✨ **Full Stack Dev Student** | 🎯 Columbus, OH | 💡 Building interactive, fun, user-centered web applications
 
 ---
 
 ## 🚀 Currently Upskilling
-Expanding my full-stack capabilities with industry-standard design and backend tools:
+Expanding my capabilities with industry-standard design and backend tools:
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -15,22 +15,22 @@ Expanding my full-stack capabilities with industry-standard design and backend t
 ---
 
 ## 🛠️ Featured Projects
-*Click below to explore my live work and experimental code:*
+*Click thru my work and code:*
 
 ### 🎨 [Personal Portfolio Site](https://github.com)
-Personal portfolio site built from scratch with **HTML, CSS, and vanilla JavaScript**. 
+All me...a personal portfolio site with all the fixings **HTML, CSS, and vanilla JavaScript**. 
 - 🐍 Canvas-based Snake game with email triggers
 - 🌓 Animated theme toggle
 - ✨ Smooth, interactive animations
 
 ### 🔲 [CSSXplorer](https://github.com)
-An interactive **Flexbox and Grid explorer** tool designed to help you master CSS layouts.
+An interactive **Flexbox and Grid explorer** tool designed to help you master CSS layouts. Fun and simple!
 - 🎮 Real-time property updates
 - 📊 Visual feedback for layout changes
 - 🧠 Learn by experimenting
 
 ### 📋 [HabitTracker](https://github.com)
-A gamified habit tracker that turns daily habits into an XP system where you level up your digital companion — Seedling Bob.
+A gamified habit tracker that turns a few daily habits into an XP system where you level up your digital companion — Seedling Bob. And he is a hoot!
 - 🎮 XP system based on habit completion
 - 🌱 Animated Seedling Bob with mood states
 - 📈 Dynamic level progression system
