@@ -17,7 +17,7 @@ Expanding my capabilities with industry-standard design and backend tools:
 ## 🛠️ Featured Projects
 *Click thru my work and code....my mind:*
 
-### 🎨 [Personal Portfolio Site](https://cohortjuan.github.io/))
+### 🎨 [Personal Portfolio Site](https://cohortjuan.github.io/)
 Lets work!  ...a personal portfolio site with all the fixings **HTML, CSS, and vanilla JavaScript**. 
 - 🐍 Canvas-based Snake game with email triggers and game effects
 - 🌓 Animated theme toggle...and if you click my name 3 times SUPRISE
