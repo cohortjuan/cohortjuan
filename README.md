@@ -15,26 +15,26 @@ Expanding my capabilities with industry-standard design and backend tools:
 ---
 
 ## 🛠️ Featured Projects
-*Click thru my work and code:*
+*Click thru my work and code....my mind:*
 
-### 🎨 [Personal Portfolio Site](https://github.com)
-All me...a personal portfolio site with all the fixings **HTML, CSS, and vanilla JavaScript**. 
-- 🐍 Canvas-based Snake game with email triggers
-- 🌓 Animated theme toggle
-- ✨ Smooth, interactive animations
+### 🎨 [Personal Portfolio Site](https://cohortjuan.github.io/))
+Lets work!  ...a personal portfolio site with all the fixings **HTML, CSS, and vanilla JavaScript**. 
+- 🐍 Canvas-based Snake game with email triggers and game effects
+- 🌓 Animated theme toggle...and if you click my name 3 times SUPRISE
+- ✨ Smooth, interactive animations, clean but fun
 
-### 🔲 [CSSXplorer](https://github.com)
+### 🔲 [CSS Layout Lab](https://cohortjuan.github.io/CSSXplorer/))
 An interactive **Flexbox and Grid explorer** tool designed to help you master CSS layouts. Fun and simple!
-- 🎮 Real-time property updates
-- 📊 Visual feedback for layout changes
-- 🧠 Learn by experimenting
+- 🎮 Real-time property updates, se it, believe it...
+- 📊 Visual feedback for layout changes, easy peezy
+- 🧠 Learn by experimenting or listen to Java, he has your back!
 
-### 📋 [HabitTracker](https://github.com)
+### 📋 [Seedling BOB Habit Tracker](https://cohortjuan.github.io/HabitTracker/))
 A gamified habit tracker that turns a few daily habits into an XP system where you level up your digital companion — Seedling Bob. And he is a hoot!
-- 🎮 XP system based on habit completion
-- 🌱 Animated Seedling Bob with mood states
-- 📈 Dynamic level progression system
-- 🧠 Developer-themed motivational phrases
+- 🎮 XP system based on habit completion and badges
+- 🌱 Animated Seedling Bob with mood states, keep him happy
+- 📈 Dynamic level progression system, GRIND
+- 🧠 Developer-themed motivational phrases, Bob is a hoot!
 
 ---
 
