@@ -23,13 +23,13 @@ Lets work!  ...a personal portfolio site with all the fixings **HTML, CSS, and v
 - 🌓 Animated theme toggle...and if you click my name 3 times SUPRISE
 - ✨ Smooth, interactive animations, clean but fun
 
-### 🔲 [CSS Layout Lab](https://cohortjuan.github.io/CSSXplorer/))
+### 🔲 [CSS Layout Lab](https://cohortjuan.github.io/CSSXplorer/)
 An interactive **Flexbox and Grid explorer** tool designed to help you master CSS layouts. Fun and simple!
 - 🎮 Real-time property updates, se it, believe it...
 - 📊 Visual feedback for layout changes, easy peezy
 - 🧠 Learn by experimenting or listen to Java, he has your back!
 
-### 📋 [Seedling BOB Habit Tracker](https://cohortjuan.github.io/HabitTracker/))
+### 📋 [Seedling BOB Habit Tracker](https://cohortjuan.github.io/HabitTracker/)
 A gamified habit tracker that turns a few daily habits into an XP system where you level up your digital companion — Seedling Bob. And he is a hoot!
 - 🎮 XP system based on habit completion and badges
 - 🌱 Animated Seedling Bob with mood states, keep him happy
