@@ -17,7 +17,7 @@ Expanding my capabilities with industry-standard design and backend tools:
 ## 🛠️ Featured Projects
 *Click thru my work and code....my mind:*
 
-### 🎙️ [Whispers App](https://github.com/cohortjuan/Whispers-App)
+### 🎙️ [Whispers App](https://whispers-app.vercel.app) ([code](https://github.com/cohortjuan/Whispers-App))
 A full-stack family voice archive — record and keep the voices of your loved ones, tied to an actual family tree instead of just names on a chart. "Whispers of the ancestors," kept for good.
 - 🌳 Real connected family tree — parents, spouses, and children drawn as an actual branching diagram
 - 🎙️ Recording-first UX, straight from the browser mic, big button front and center
