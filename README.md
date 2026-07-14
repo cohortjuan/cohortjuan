@@ -17,6 +17,13 @@ Expanding my capabilities with industry-standard design and backend tools:
 ## 🛠️ Featured Projects
 *Click thru my work and code....my mind:*
 
+### 🎙️ [Whispers App](https://github.com/cohortjuan/Whispers-App)
+A full-stack family voice archive — record and keep the voices of your loved ones, tied to an actual family tree instead of just names on a chart. "Whispers of the ancestors," kept for good.
+- 🌳 Real connected family tree — parents, spouses, and children drawn as an actual branching diagram
+- 🎙️ Recording-first UX, straight from the browser mic, big button front and center
+- 🌙 Dark mode with its own regal purple palette, right down to a matching logo variant
+- 🐘 React + Vite frontend, Node/Express + PostgreSQL backend, REST API
+
 ### 🎨 [Personal Portfolio Site](https://cohortjuan.github.io/)
 Lets work!  ...a personal portfolio site with all the fixings **HTML, CSS, and vanilla JavaScript**. 
 - 🐍 Canvas-based Snake game with email triggers and game effects
