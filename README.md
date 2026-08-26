@@ -10,6 +10,12 @@
 Expanding my capabilities with industry-standard design and backend tools:
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
@@ -19,10 +25,18 @@ Expanding my capabilities with industry-standard design and backend tools:
 
 ### 🎙️ [Whispers App](https://whispers-app.vercel.app) ([code](https://github.com/cohortjuan/Whispers-App))
 A full-stack family voice archive — record and keep the voices of your loved ones, tied to an actual family tree instead of just names on a chart. "Whispers of the ancestors," kept for good.
-- 🌳 Real connected family tree — parents, spouses, and children drawn as an actual branching diagram
+- 🔐 Real accounts, private per-family trees, and single-use invite codes to bring someone else in
+- 🌳 Real connected family tree — parents, spouses, and children drawn as an actual branching diagram, with a show/hide photos toggle
 - 🎙️ Recording-first UX, straight from the browser mic, big button front and center
 - 🌙 Dark mode with its own regal purple palette, right down to a matching logo variant
 - 🐘 React + Vite frontend, Node/Express + PostgreSQL backend, REST API
+
+### 🎉 [Gather](https://gather-app-beige.vercel.app) ([code](https://github.com/Cohort-nine/gather-app-monorepo))
+A social events app for small gatherings — block parties, potlucks, hobby meetups — built around who's actually showing up, not just who said they would.
+- 🤝 Reliability scores derived from real attendance history, not self-reported RSVPs
+- 👥 See which of your connections are already going before you commit
+- 🎥 A cinematic video-hero intro with a flying-logo animation
+- 🐘 React + Vite frontend, Node/Express + PostgreSQL (Prisma) backend, REST API
 
 ### 🎨 [Personal Portfolio Site](https://cohortjuan.github.io/)
 Lets work!  ...a personal portfolio site with all the fixings **HTML, CSS, and vanilla JavaScript**. 
