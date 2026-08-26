@@ -40,7 +40,7 @@ A full-stack family voice archive — record and keep the voices of your loved o
 ### 🎉 Gather
 [![Gather preview](assets/gather-preview.png)](https://gather-app-beige.vercel.app)
 
-**[Live demo](https://gather-app-beige.vercel.app) &nbsp;•&nbsp; [Source code](https://github.com/Cohort-nine/gather-app-monorepo)**
+**[Live demo](https://gather-app-beige.vercel.app)**
 
 A social events app for small gatherings — block parties, potlucks, hobby meetups — built around who's actually showing up, not just who said they would.
 - 🤝 Reliability scores derived from real attendance history, not self-reported RSVPs
