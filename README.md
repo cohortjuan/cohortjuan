@@ -20,10 +20,14 @@ Expanding my capabilities with industry-standard design and backend tools:
 
 ---
 
-## 🛠️ Featured Projects
-*Click thru my work and code....my mind:*
+## 🏆 Flagship Projects
+*The two I'd actually show you first:*
 
-### 🎙️ [Whispers App](https://whispers-app.vercel.app) ([code](https://github.com/cohortjuan/Whispers-App))
+### 🎙️ Whispers App
+[![Whispers App preview](assets/whispers-preview.png)](https://whispers-app.vercel.app)
+
+**[Live demo](https://whispers-app.vercel.app) &nbsp;•&nbsp; [Source code](https://github.com/cohortjuan/Whispers-App)**
+
 A full-stack family voice archive — record and keep the voices of your loved ones, tied to an actual family tree instead of just names on a chart. "Whispers of the ancestors," kept for good.
 - 🔐 Real accounts, private per-family trees, and single-use invite codes to bring someone else in
 - 🌳 Real connected family tree — parents, spouses, and children drawn as an actual branching diagram, with a show/hide photos toggle
@@ -31,12 +35,23 @@ A full-stack family voice archive — record and keep the voices of your loved o
 - 🌙 Dark mode with its own regal purple palette, right down to a matching logo variant
 - 🐘 React + Vite frontend, Node/Express + PostgreSQL backend, REST API
 
-### 🎉 [Gather](https://gather-app-beige.vercel.app) ([code](https://github.com/Cohort-nine/gather-app-monorepo))
+<br>
+
+### 🎉 Gather
+[![Gather preview](assets/gather-preview.png)](https://gather-app-beige.vercel.app)
+
+**[Live demo](https://gather-app-beige.vercel.app) &nbsp;•&nbsp; [Source code](https://github.com/Cohort-nine/gather-app-monorepo)**
+
 A social events app for small gatherings — block parties, potlucks, hobby meetups — built around who's actually showing up, not just who said they would.
 - 🤝 Reliability scores derived from real attendance history, not self-reported RSVPs
 - 👥 See which of your connections are already going before you commit
 - 🎥 A cinematic video-hero intro with a flying-logo animation
 - 🐘 React + Vite frontend, Node/Express + PostgreSQL (Prisma) backend, REST API
+
+---
+
+## 🛠️ More Projects
+*Click thru my work and code....my mind:*
 
 ### 🎨 [Personal Portfolio Site](https://cohortjuan.github.io/)
 Lets work!  ...a personal portfolio site with all the fixings **HTML, CSS, and vanilla JavaScript**. 
