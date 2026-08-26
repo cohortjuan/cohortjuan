@@ -54,7 +54,7 @@ Lets work!  ...a personal portfolio site with all the fixings **HTML, CSS, and v
 
 ### 🔲 [CSS Layout Lab](https://cohortjuan.github.io/CSSXplorer/)
 An interactive **Flexbox and Grid explorer** tool designed to help you master CSS layouts. Fun and simple!
-- 🎮 Real-time property updates, se it, believe it...
+- 🎮 Real-time property updates, see it live, believe it...
 - 📊 Visual feedback for layout changes, easy peezy
 - 🧠 Learn by experimenting or listen to Java, he has your back!
 
