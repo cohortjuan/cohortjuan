@@ -2,7 +2,7 @@
 
 # 👋🏽 I'm Juan!
 
-✨ **Full Stack Dev Student** | 🎯 Columbus, OH | 💡 Building interactive, fun, user-centered web applications
+✨ **Full Stack Jr. Dev** | 🎯 Columbus, OH | 💡 Building interactive, fun, user-centered web applications
 
 ---
 
